@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "VSTKL";
 const meta = {
-    title: "John Doe",
+    title: "Vojta Stoklasa",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m vstkl.xyz",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -20,7 +20,7 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
+        jobtitle: "BossBitch 2020",
         where: "YAdfi",
         date: "2020",
     },
